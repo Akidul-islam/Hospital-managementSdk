@@ -2,7 +2,7 @@ import axios from 'axios';
 
 class HospitalManagementSDK {
   constructor(apiKey) {
-    this.baseURL = 'https://some.com/api'; // Replace with your API base URL
+    this.baseURL = 'https://something.com/api'; // Replace with your API base URL
     this.apiKey = apiKey;
     this.axiosInstance = axios.create({
       baseURL: this.baseURL,
