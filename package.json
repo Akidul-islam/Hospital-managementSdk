@@ -1,10 +1,13 @@
 {
-  "name": "hmsSDK",
+  "name": "@Akidul-islam/Hospital-managementSdk",
   "version": "1.0.0",
   "description": "hospial management sdk",
   "main": "index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@Hospital-managementSdk"
+  },
+  "repository": {
+    "url": "https://github.com/Akidul-islam/Hospital-managementSdk.git"
   },
   "author": "akidul isalm",
   "license": "MIT",
